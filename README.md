@@ -23,5 +23,7 @@ It can be seen that the only thing that remained of the image captured with the 
 # **This project is being developed by:**
 
 ✈️ Alejandra Avendaño Cortina, [GitHub](https://github.com/alejandraavendano), Email: a_avendano@javeriana.edu.co
+
 🏍️ Leidy Carolina Pulido Feo, [GitHub](https://github.com/Carolina-Pulido), Email: leidy_pulido@javeriana.edu.co
+
 🏎️ Pedro Elí Ruiz Zárate, [GitHub](https://github.com/PedroRuizCode), Email: pedro.ruiz@javeriana.edu.co
