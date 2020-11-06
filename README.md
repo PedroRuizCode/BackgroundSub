@@ -1,4 +1,4 @@
-# **Social Distancing Analyzer**
+# **Green screen, Background editor**
 
 Today one of the most important applications of image processing is the streaming or transmission of live multimedia content. For this reason, this project was developed in Python, which captures images taken with the computer's webcam and eliminates the background, which in this case is a green cloth.
 
