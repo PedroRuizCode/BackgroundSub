@@ -25,19 +25,19 @@ Finally, with the mask calculated, the background is replaced by another selecte
 To facilitate the use of the tool, a graphical user interface was designed. When starting the execution of the algorithm, the following window is displayed:
 
 <p align="center">
-<img src ="./media/gui1.png" alt="drawing" width="700"/>
+<img src ="./media/gui1.png" alt="drawing" width="500"/>
 </p>
 
 By clicking on the button in the window, you can select whether you want to replace the background with an image or a video. If the selected option was an image, you will see the following window:
 
 <p align="center">
-<img src ="./media/gui2.png" alt="drawing" width="700"/>
+<img src ="./media/gui2.png" alt="drawing" width="500"/>
 </p>
 
 Or if the selected option was video, the following window will be displayed:
 
 <p align="center">
-<img src ="./media/gui3.png" alt="drawing" width="700"/>
+<img src ="./media/gui3.png" alt="drawing" width="500"/>
 </p>
 
 To select any of the funds that you want to show, you just have to click on it and then click close.
@@ -45,7 +45,7 @@ To select any of the funds that you want to show, you just have to click on it a
 After this, comes the capture of the photo of the background without any foreground object. For this, after closing the window shown above, the following window will be displayed:
 
 <p align="center">
-<img src ="./media/gui4.png" alt="drawing" width="500"/>
+<img src ="./media/gui4.png" alt="drawing" width="300"/>
 </p>
 
 To take the photo, click on the camera icon. After this select close.
